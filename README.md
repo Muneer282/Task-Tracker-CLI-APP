@@ -61,4 +61,4 @@ If the command `task-cli` is not recognized, run it using:
 Windows does not execute commands from the current directory unless prefixed with `.\` or added to the system `PATH`.
 
 ### Project URL
-https://github.com/Muneer282/Task-Tracker-CLI-APP.git
+https://roadmap.sh/projects/task-tracker
