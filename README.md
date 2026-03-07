@@ -117,8 +117,6 @@ To contribute to the Task Management System, please follow these steps:
 ## 📝 License
 The Task Management System is licensed under the MIT License.
 
-## 📬 Contact
-For any questions or concerns, please contact us at [support@example.com](mailto:support@example.com).
 
 ## 💖 Thanks Message
 We hope you find the Task Management System useful! If you have any feedback or suggestions, please don't hesitate to reach out.
